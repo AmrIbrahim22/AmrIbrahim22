@@ -1,16 +1,31 @@
-## Hi there 👋
+# **👋 Hi, I'm Amr Ibrahim**
 
-<!--
-**AmrIbrahim22/AmrIbrahim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Flutter Developer | Mobile App Specialist | Cross-Platform Expert**
 
-Here are some ideas to get you started:
+I'm a passionate Flutter developer focused on creating beautiful, high-performance mobile applications. I specialize in cross-platform development with Flutter and Dart, delivering scalable solutions with clean architecture and smooth user experiences across iOS and Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🚀 What I Do**
+
+* 🛠️ Build cross-platform mobile apps with Flutter & Dart
+* 🎨 Create intuitive UI/UX designs with Material Design and Cupertino
+* 🧠 Architect clean, maintainable code with MVVM and BLoC patterns
+* 🔄 Handle complete app development lifecycle from concept to store deployment
+* 💬 Collaborate effectively with teams and communicate clearly with stakeholders
+
+## **👾 On My Radar**
+
+* 📱 Exploring SwiftUI and native iOS development
+* 🌱 Learning advanced state management and performance optimization
+* 🔍 Keeping up with the latest Flutter updates and best practices
+
+## **📬 Let's Connect!**
+
+Feel free to check out my work or reach out:
+
+* 💼 **LinkedIn**: https://www.linkedin.com/in/amri22/
+* 🌐 **Portfolio**: https://amr-ibrahim-flutter-dev-wcbj44d.gamma.site/
+* 📱 **Available for**: Flutter development projects and collaborations
+
+---
+
+*Always excited to work on innovative mobile solutions and bring ideas to life!*
