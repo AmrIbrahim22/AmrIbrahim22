@@ -26,6 +26,18 @@ Feel free to check out my work or reach out:
 * 🌐 **Portfolio**: https://amr-ibrahim-flutter-dev-wcbj44d.gamma.site/
 * 📱 **Available for**: Flutter development projects and collaborations
 
+## **📊 GitHub Stats**
+
+<div align="center">
+
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrIbrahim22&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrIbrahim22&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrIbrahim22&layout=compact&theme=radical)
+
+</div>
+
 ---
 
 *Always excited to work on innovative mobile solutions and bring ideas to life!*
